@@ -1,6 +1,9 @@
 # August
-from PIL import Image,ImageFont,ImageDraw,ImageColor
 
+
+
+
+from PIL import Image,ImageFont,ImageDraw,ImageColor
 
 def img_addnum(img,num):
     img1=Image.open("test1.jpg") # 打开图片
