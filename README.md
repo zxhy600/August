@@ -1,8 +1,8 @@
 # August
 
-
-
-
+#
+#
+#
 from PIL import Image,ImageFont,ImageDraw,ImageColor
 
 def img_addnum(img,num):
